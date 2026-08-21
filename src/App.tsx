@@ -1,9 +1,9 @@
-import Counter from "./labs/01-counter/page"
+import Form from "./labs/02-Form/page"
 
 function App() {
   return (
     <main>
-      <Counter />
+      <Form />
     </main>
   )
 }
